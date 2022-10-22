@@ -32,4 +32,4 @@ Please cite the following manuscript:
 Chonghui Liu, Yan Zhang, Xin Gao,and Guohua Wang<br />
 
 
-Improvements and new features of PACSI will be updated on a regular basis. Please post on the [GitHub discussion page](https://github.com/Chonghui-Liu/PACSI/discussions) with any questions.
+Improvements and new features of PACSI will be updated on a regular basis.
