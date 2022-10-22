@@ -22,7 +22,8 @@ library(devtools)
 install_github("/PACSI")
 ```
 ### Examples ###
-Please see https://Chonghui-Liu.github.io/PACSI/vignettes/my-vignette.html for details. In the R terminal, please use the command `?PACSI` to access the help documents.
+Please see https://htmlpreview.github.io/?https://github.com/Chonghui-Liu/PACSI-project/blob/main/PACSI/vignettes/my-vignette.html for details. In the R terminal, please use the command `?PACSI` to access the help documents.
+
 
 ### How to cite `PACSI` ###
 Please cite the following manuscript:
