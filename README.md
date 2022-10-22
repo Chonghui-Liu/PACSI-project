@@ -19,7 +19,7 @@ install.packages("devtools")
 * Step 2 Install PACSI in R
 ```R
 library(devtools)
-install_github("/PACSI")
+install_github("Chonghui-Liu/PACSI-project/PACSI")
 ```
 ### Examples ###
 Please see https://htmlpreview.github.io/?https://github.com/Chonghui-Liu/PACSI-project/blob/main/PACSI/vignettes/my-vignette.html for details. In the R terminal, please use the command `?PACSI` to access the help documents.
