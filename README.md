@@ -31,5 +31,6 @@ Please cite the following manuscript:
 > *Identification of cell subpopulations associated with disease phenotypes from scRNA-seq data*. 
 Chonghui Liu, Yan Zhang, Xin Gao,and Guohua Wang<br />
 
-
+### Support ##
+If you have any question regarding the use of PACSI, feel free to submit an [issue](https://github.com/Chonghui-Liu/PACSI-porject/issues).
 Improvements and new features of PACSI will be updated on a regular basis.
