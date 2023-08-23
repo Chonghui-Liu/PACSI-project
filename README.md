@@ -28,7 +28,7 @@ Please see https://htmlpreview.github.io/?https://github.com/Chonghui-Liu/PACSI-
 ### How to cite `PACSI` ###
 Please cite the following manuscript:
 
-> *Identification of cell subpopulations associated with disease phenotypes from scRNA-seq data*. 
+> *Identification of cell subpopulations associated with disease phenotypes from scRNA-seq data using PACSI*. BMC biology (2023). https://doi.org/10.1186/s12915-023-01658-3.
 Chonghui Liu, Yan Zhang, Xin Gao,and Guohua Wang<br />
 
 ### Support ##
